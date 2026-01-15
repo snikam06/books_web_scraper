@@ -17,8 +17,8 @@ https://books.toscrape.com
 - Requests
 
 ## How to Run
-pip install requests beautifulsoup4
-python e-commerce_website.ipynb
+- pip install requests beautifulsoup4
+- python e-commerce_website.ipynb
 
 ## Purpose
 Created for learning and portfolio building.
